@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    background-image: url('/img/paleta.jpg');
+    background-size: 100%;        
+}
+#container {
+    width: 80%;
+    margin: 0 auto;    
+}
+h1{
+    text-align: center;
+    color: #DE3163;
+}
+input{
+    width: 230px;
+    height: 40px;
+    font-size: 16px;    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr{
+    color: #807c7c;
+    background-color: #f2f2f2be;
+}
+button{
+    width: 120px;
+    height: 40px;
+    margin: 5%;
+    font-size: 18px;
+    border-radius: 5px;
+}
